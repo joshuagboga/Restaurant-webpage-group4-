@@ -1,0 +1,25 @@
+{
+  "name": "restaurant-webpage-group4-",
+  "version": "1.0.0",
+  "description": "Group 4 assignment for restaurant webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChyyamakaU/Restaurant-webpage-group4-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ChyyamakaU/Restaurant-webpage-group4-/issues"
+  },
+  "homepage": "https://github.com/ChyyamakaU/Restaurant-webpage-group4-#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.1",
+    "tailwindcss": "^4.2.1"
+  }
+}
